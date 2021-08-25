@@ -2,8 +2,7 @@
 
 # Desafio 1 (**Arduino Uno**)
 ### Curso de Extensão (IFAL/Maceió - 2021): Computação Embarcada com Arduino Uno e ESP8266.
-<img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-<img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"> <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 
 **Componentes**:
 | Nome | Quantidade | Componente |
